@@ -11,7 +11,7 @@ To sucessfully view the optimized portfolio please visit [this site](http://pisa
 - Optimized loading of the Google Fonts
 - Inlined critical css with the help of https://jonassebastianohlsson.com/criticalpathcssgenerator/
 
-With the above mentioned optimizations the page gets 90/100 points for mobile and 97/100 points on Google Page Speed Insights.
+With the above mentioned optimizations the page gets 99/100 points for mobile and 99/100 points on Google Page Speed Insights.
 
 ####Optimizations on main.js for the pizza site:
 - Moved calculations out of for loops in function changePizzaSizes and updatePositions
